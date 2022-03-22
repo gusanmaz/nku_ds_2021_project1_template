@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String args[]){
+    public static void Main(String args[]){
        //main fonksiyonunu bu sekilde kalabilir. Bu fonksiyon altina yazdiklariniz degerlendirmeye alinmayacaktir.
        System.out.println("Hello World");
     }
