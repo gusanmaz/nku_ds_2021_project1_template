@@ -16,7 +16,7 @@ public class Main {
        return 0;
     }
     
-    public static int ToplaPalindrome6(){
+    public static long ToplaPalindrome6(){
        return 0;
     }
     
